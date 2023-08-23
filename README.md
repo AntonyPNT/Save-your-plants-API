@@ -44,8 +44,10 @@ Eens je dit hebt uitgevoerd krijg je een token terug als response.
 Nu kun je de ontvangen token copy pasten in de Authorize box rechts bovenaan de pagina.
 Eens je dat gedaan hebt kun je alle calls gebruiken als admin.
 
-##Notes
+## Notes
 Als je zelf een gebruiker wilt registeren en aanmaken dan moet het wachtwoord opzenminst een grote letter hebben, 1 speciale teken, en 1 cijfer.
 Een gewone gebruiker kan uiteraard minder dan een admin.
 
 Dit is zo gemaakt geweest voor veiligheidsredenen :)
+
+Als er problemen zouden opkomen bij het opstarten van de applicatie dan mag je mij gerust zeker contacteren via mijn email.
